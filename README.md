@@ -10,9 +10,17 @@ Un sitio web es un conjunto de páginas web interconectadas que están alojadas 
 
 ## **¿Qué es una aplicación web?**
 
-Una aplicación web es un software que se ejecuta en un navegador web y que no necesita ser descargado ni instalado en el dispositivo del usuario56. Estas aplicaciones se ejecutan en un servidor y se transmiten a través de internet al navegador del usuario, permitiendo realizar diversas tareas como enviar correos electrónicos [outlook](www.outlook.com "outlook"), editar documentos [office 365](www.office.com "office") o gestionar una tienda en línea [shopify](www.shopify.com "shopify").
+Una aplicación web es un software que se ejecuta en un navegador web y que no necesita ser descargado ni instalado en el dispositivo del usuario56. Estas aplicaciones se ejecutan en un servidor y se transmiten a través de internet al navegador del usuario, permitiendo realizar diversas tareas como enviar correos electrónicos [outlook](https://www.outlook.com "outlook"), editar documentos [office 365](https://www.office.com "office") o gestionar una tienda en línea [shopify](https://www.shopify.com "shopify").
 
 ## **¿Qué es una herramienta ofimática?**
 
 Las herramientas ofimáticas son un conjunto de programas y aplicaciones diseñadas para facilitar y optimizar las tareas de oficina. Estas herramientas incluyen procesadores de texto, hojas de cálculo, programas de presentación, gestores de bases de datos y aplicaciones de correo electrónico.
 
+|fila|fila2|
+|Docs|check|
+|Slides|check|
+|Sheets|check|
+|Calendar|Calendario|
+|Meet|Reunión|
+
+## **¿Qué es ¨¨¨¨HTML¨¨¨¨?**

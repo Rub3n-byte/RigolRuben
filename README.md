@@ -23,4 +23,8 @@ Las herramientas ofimáticas son un conjunto de programas y aplicaciones diseña
 |Calendar|Calendario|
 |Meet|Reunión|
 
-## **¿Qué es ¨¨¨¨HTML¨¨¨¨?**
+## **¿Qué es ````HTML````?**
+
+HTML, acrónimo en inglés de HyperText Markup Language («lenguaje de marcado de hipertexto»), hace referencia al lenguaje de marcado utilizado en la creación de páginas web.
+
+

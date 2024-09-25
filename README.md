@@ -2,7 +2,7 @@
 
 ## **¿Qué es una página web?**
 
-Una **página web** es un documento digital que se puede visualizar a través de un navegador web y que está adaptado a los estándares de la World Wide Web (WWW). Puede contener texto, imágenes, videos y otros elementos multimedia, como este ![foto](https://github.com/Rub3n-byte/ruben-A01/blob/main/foto.jpg "foto"). Las páginas web se encuentran programadas en HTML o XHTML y se accede a ellas mediante una URL específica [Mi perfil](https://github.com/Rub3n-byte "mi perfil"].
+Una **página web** es un documento digital que se puede visualizar a través de un navegador web y que está adaptado a los estándares de la World Wide Web (WWW). Puede contener texto, imágenes, videos y otros elementos multimedia, como este ![foto](https://github.com/Rub3n-byte/ruben-A01/blob/main/foto.jpg "foto"). Las páginas web se encuentran programadas en HTML o XHTML y se accede a ellas mediante una URL específica [Mi perfil](https://github.com/Rub3n-byte "mi perfil").
 
 ## **¿Qué es un sitio web?**
 

@@ -28,4 +28,16 @@ Las herramientas ofimáticas son un conjunto de programas y aplicaciones diseña
 
 HTML, acrónimo en inglés de HyperText Markup Language («lenguaje de marcado de hipertexto»), hace referencia al lenguaje de marcado utilizado en la creación de páginas web.
 
-
+```
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+</body>
+</html>
+```

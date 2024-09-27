@@ -16,7 +16,7 @@
 
     Las herramientas ofimáticas son un conjunto de programas y aplicaciones diseñadas para facilitar y optimizar las tareas de oficina. Estas herramientas incluyen procesadores         de texto, hojas de cálculo, programas de presentación, gestores de bases de datos y aplicaciones de correo electrónico.
 
-5. ## <span style="color:blue"><strong>Herramientas de Google.</strong></span>
+5. ## <span style="color:blue;"><strong>Herramientas de Google.</span>
 
 | fila     | fila2     |
 |----------|-----------|

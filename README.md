@@ -12,9 +12,11 @@
 
     Una aplicación web es un software que se ejecuta en un navegador web y que no necesita ser descargado ni instalado en el dispositivo del usuario. Estas aplicaciones se            ejecutan en un servidor y se transmiten a través de internet al navegador del usuario, permitiendo realizar diversas tareas como enviar correos electrónicos [outlook](            https://www.outlook.com "outlook"), editar documentos [office 365](https://www.office.com "office") o gestionar una tienda en línea [shopify](https://www.shopify.com "shopify").
 
-## **¿Qué es una herramienta ofimática?**
+4. ## **¿Qué es una herramienta ofimática?**
 
-Las herramientas ofimáticas son un conjunto de programas y aplicaciones diseñadas para facilitar y optimizar las tareas de oficina. Estas herramientas incluyen procesadores de texto, hojas de cálculo, programas de presentación, gestores de bases de datos y aplicaciones de correo electrónico.
+    Las herramientas ofimáticas son un conjunto de programas y aplicaciones diseñadas para facilitar y optimizar las tareas de oficina. Estas herramientas incluyen procesadores         de texto, hojas de cálculo, programas de presentación, gestores de bases de datos y aplicaciones de correo electrónico.
+
+5. ## <span style="color:blue"><strong>Herramientas de Google.</strong></span>
 
 | fila     | fila2     |
 |----------|-----------|
@@ -24,9 +26,9 @@ Las herramientas ofimáticas son un conjunto de programas y aplicaciones diseña
 | Calendar | Calendario|
 | Meet     | Reunión   |
 
-## **¿Qué es ````HTML````?**
+6. ## **¿Qué es ````HTML````?**
 
-TML son las siglas de HyperText Markup Language (Lenguaje de Marcado de Hipertexto). Es el lenguaje estándar utilizado para crear y estructurar páginas web. HTML utiliza una serie de elementos y etiquetas para definir el contenido y la estructura de una página web, como párrafos, encabezados, listas, enlaces, imágenes y más. Cada elemento HTML está representado por una etiqueta que indica al navegador cómo debe mostrarse el contenido
+    TML son las siglas de HyperText Markup Language (Lenguaje de Marcado de Hipertexto). Es el lenguaje estándar utilizado para crear y estructurar páginas web. HTML utiliza una     serie de elementos y etiquetas para definir el contenido y la estructura de una página web, como párrafos, encabezados, listas, enlaces, imágenes y más. Cada elemento HTML         está representado por una etiqueta que indica al navegador cómo debe mostrarse el contenido
 
 ```
 <!DOCTYPE html>
@@ -42,9 +44,9 @@ TML son las siglas de HyperText Markup Language (Lenguaje de Marcado de Hipertex
 </html>
 ```
 
-## **¿Qué es CSS?**
+7. ## **¿Qué es CSS?**
 
-CSS son las siglas de Cascading Style Sheets (Hojas de Estilo en Cascada). Es un lenguaje utilizado para describir la presentación y el diseño de un documento escrito en HTML o XML. CSS permite controlar el aspecto visual de una página web, incluyendo colores, fuentes, márgenes, alineaciones y otros aspectos de diseño. Con CSS, puedes separar el contenido de la presentación, lo que facilita el mantenimiento y la actualización del diseño de un sitio web.
+    CSS son las siglas de Cascading Style Sheets (Hojas de Estilo en Cascada). Es un lenguaje utilizado para describir la presentación y el diseño de un documento escrito en HTML     o XML. CSS permite controlar el aspecto visual de una página web, incluyendo colores, fuentes, márgenes, alineaciones y otros aspectos de diseño. Con CSS, puedes separar el         contenido de la presentación, lo que facilita el mantenimiento y la actualización del diseño de un sitio web.
 
 <p align="center">
   <img src=(https://github.com/Rub3n-byte/ruben-A01/blob/main/foto.png) alt="flujo de trabajo">

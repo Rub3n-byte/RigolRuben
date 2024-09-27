@@ -1,10 +1,10 @@
-# 1. Réplica
+# Réplica
 
-## *    __¿Qué es una página web?__
+1. ## **¿Qué es una página web?**
 
 Una **página web** es un documento digital que se puede visualizar a través de un navegador web y que está adaptado a los estándares de la World Wide Web (WWW). Puede contener texto, imágenes, videos y otros elementos multimedia, como este ![foto](https://github.com/Rub3n-byte/ruben-A01/blob/main/foto.jpg "foto") Las páginas web se encuentran programadas en HTML o XHTML y se accede a ellas mediante una URL específica [Mi perfil](https://github.com/Rub3n-byte "mi perfil").
 
-## *    **¿Qué es un sitio web?**
+## **¿Qué es un sitio web?**
 
 Un sitio web es un conjunto de páginas web interconectadas que están alojadas en un servidor web y que comparten un nombre de dominio común. Los sitios web pueden contener diversos tipos de contenido, como texto, imágenes, videos y elementos interactivos, y son accesibles a través de internet mediante un navegador web.
 

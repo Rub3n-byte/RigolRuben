@@ -48,9 +48,10 @@
 
     CSS son las siglas de Cascading Style Sheets (Hojas de Estilo en Cascada). Es un lenguaje utilizado para describir la presentación y el diseño de un documento escrito en HTML     o XML. CSS permite controlar el aspecto visual de una página web, incluyendo colores, fuentes, márgenes, alineaciones y otros aspectos de diseño. Con CSS, puedes separar el         contenido de la presentación, lo que facilita el mantenimiento y la actualización del diseño de un sitio web.
 
-<div style="text-align: center;">
 ![foto](https://github.com/Rub3n-byte/RigolRuben/blob/main/foto.png alt="Flujo de trabajo")
-</div>
+
+[//]: <> <div style="text-align: center;">
+[//]: <> </div>
 
 <p align="center">
   <img src=![foto](https://github.com/Rub3n-byte/RigolRuben/blob/main/foto.png alt="Flujo de trabajo")>

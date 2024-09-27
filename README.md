@@ -10,7 +10,7 @@ Un sitio web es un conjunto de páginas web interconectadas que están alojadas 
 
 ## **¿Qué es una aplicación web?**
 
-Una aplicación web es un software que se ejecuta en un navegador web y que no necesita ser descargado ni instalado en el dispositivo del usuario56. Estas aplicaciones se ejecutan en un servidor y se transmiten a través de internet al navegador del usuario, permitiendo realizar diversas tareas como enviar correos electrónicos [outlook](https://www.outlook.com "outlook"), editar documentos [office 365](https://www.office.com "office") o gestionar una tienda en línea [shopify](https://www.shopify.com "shopify").
+Una aplicación web es un software que se ejecuta en un navegador web y que no necesita ser descargado ni instalado en el dispositivo del usuario. Estas aplicaciones se ejecutan en un servidor y se transmiten a través de internet al navegador del usuario, permitiendo realizar diversas tareas como enviar correos electrónicos [outlook](https://www.outlook.com "outlook"), editar documentos [office 365](https://www.office.com "office") o gestionar una tienda en línea [shopify](https://www.shopify.com "shopify").
 
 ## **¿Qué es una herramienta ofimática?**
 
@@ -26,7 +26,7 @@ Las herramientas ofimáticas son un conjunto de programas y aplicaciones diseña
 
 ## **¿Qué es ````HTML````?**
 
-HTML, acrónimo en inglés de HyperText Markup Language («lenguaje de marcado de hipertexto»), hace referencia al lenguaje de marcado utilizado en la creación de páginas web.
+TML son las siglas de HyperText Markup Language (Lenguaje de Marcado de Hipertexto). Es el lenguaje estándar utilizado para crear y estructurar páginas web. HTML utiliza una serie de elementos y etiquetas para definir el contenido y la estructura de una página web, como párrafos, encabezados, listas, enlaces, imágenes y más. Cada elemento HTML está representado por una etiqueta que indica al navegador cómo debe mostrarse el contenido
 
 ```
 <!DOCTYPE html>
@@ -41,3 +41,7 @@ HTML, acrónimo en inglés de HyperText Markup Language («lenguaje de marcado d
 </body>
 </html>
 ```
+
+## **¿Qué es CSS?**
+
+CSS son las siglas de Cascading Style Sheets (Hojas de Estilo en Cascada). Es un lenguaje utilizado para describir la presentación y el diseño de un documento escrito en HTML o XML. CSS permite controlar el aspecto visual de una página web, incluyendo colores, fuentes, márgenes, alineaciones y otros aspectos de diseño. Con CSS, puedes separar el contenido de la presentación, lo que facilita el mantenimiento y la actualización del diseño de un sitio web.

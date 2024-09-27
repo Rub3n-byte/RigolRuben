@@ -16,12 +16,12 @@ Una aplicación web es un software que se ejecuta en un navegador web y que no n
 
 Las herramientas ofimáticas son un conjunto de programas y aplicaciones diseñadas para facilitar y optimizar las tareas de oficina. Estas herramientas incluyen procesadores de texto, hojas de cálculo, programas de presentación, gestores de bases de datos y aplicaciones de correo electrónico.
 
-|fila|fila2|
-|Docs|check|
-|Slides|check|
-|Sheets|check|
-|Calendar|Calendario|
-|Meet|Reunión|
+| fila | fila2|
+| Docs| Check|
+| Slides| Check|
+| Sheets| Check|
+| Calendar| Calendario|
+| Meet| Reunión|
 
 ## **¿Qué es ````HTML````?**
 

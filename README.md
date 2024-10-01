@@ -51,5 +51,3 @@
 <p align="center">
   <img src="https://github.com/Rub3n-byte/RigolRuben/blob/main/foto.png" />
 </p>
-
-![foto](https://github.com/Rub3n-byte/RigolRuben/blob/main/foto.png "Flujo de trabajo")

@@ -20,11 +20,11 @@
 
 | fila     | fila2     |
 |----------|-----------|
-| Docs     | Check     |
-| Slides   | Check     |
-| Sheets   | Check     |
-| Calendar | Calendario|
-| Meet     | Reunión   |
+| Docs     | :heavy_check_mark:|
+| Slides   | :heavy_check_mark:|
+| Sheets   | :heavy_check_mark:|
+| Calendar | :calendar:|
+| Meet     | :computer:|
 
 6. ## **¿Qué es ````HTML````?**
 
